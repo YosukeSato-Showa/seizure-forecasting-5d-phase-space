@@ -1,0 +1,11 @@
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.17.1
+scikit-learn==1.8.0
+matplotlib==3.10.8
+seaborn==0.13.2
+torch==2.12.0
+mne==1.12.0
+numba==0.61.2
+statsmodels==0.14.6
+ieeg @ git+https://github.com/ieeg-portal/ieegpy.git@080bfa42a8503380ef164b5e7b116613f75073bb
